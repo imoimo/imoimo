@@ -1,5 +1,9 @@
 == README
 
+とりあえず、githubの練習
+ぶらんちきったぉぉ。
+
+
 This README would normally document whatever steps are necessary to get the
 application up and running.
 
